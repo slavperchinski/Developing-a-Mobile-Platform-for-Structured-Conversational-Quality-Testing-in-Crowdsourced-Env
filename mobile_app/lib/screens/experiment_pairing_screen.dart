@@ -1019,11 +1019,7 @@ class _ExperimentPairingScreenState extends State<ExperimentPairingScreen> {
         const SizedBox(height: 10),
         const Text('1. Conversation: Take part in a short conversation.'),
         const SizedBox(height: 8),
-        const Text(
-          '2. Speaking & Listening: Complete a speaking and listening task.',
-        ),
-        const SizedBox(height: 8),
-        const Text('3. Rating: Evaluate your experience after each phase.'),
+        const Text('2. Rating: Evaluate your experience after each phase.'),
         const SizedBox(height: 12),
         const Text('You will receive instructions before starting.'),
         const SizedBox(height: 22),
