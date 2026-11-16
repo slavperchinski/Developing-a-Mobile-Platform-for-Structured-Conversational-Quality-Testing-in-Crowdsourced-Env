@@ -1,0 +1,9 @@
+﻿experiment_id,experiment_name,participant_role,age,gender,native_language,german_proficiency,hearing_difficulties,previous_test_experience,headphone_type,sct_number,scenario_id,recording_filename,packet_loss_percent,delay_ms,echo_enabled,echo_delay_ms,echo_gain,overall_quality,noise,continuity,coloration,loudness,own_voice_influence,own_voice_impairment,interaction
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,1,7,EXP1793013457813_SCT_01_A.mp3,0.0,0,true,200,0.3,3,47,97,44,58,67,78,49
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,2,16,EXP1793013457813_SCT_02_A.mp3,20.0,0,false,,,2,98,95,59,80,1,0,76
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,3,5,EXP1793013457813_SCT_03_A.mp3,0.0,100,true,200,0.3,2,98,95,48,50,65,80,62
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,4,8,EXP1793013457813_SCT_04_A.mp3,20.0,100,true,200,0.3,1,100,99,98,99,74,56,95
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,5,12,EXP1793013457813_SCT_05_A.mp3,20.0,0,true,200,0.3,3,81,71,63,48,50,29,49
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,6,15,EXP1793013457813_SCT_06_A.mp3,20.0,100,false,,,3,66,59,64,38,1,2,30
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,7,14,EXP1793013457813_SCT_07_A.mp3,0.0,100,false,,,5,2,2,1,1,2,2,1
+EXP1793013457813,Speech Quality Experiment,A,20,Female,Other,C1,No,Yes,Wireless headset,8,6,EXP1793013457813_SCT_08_A.mp3,0.0,0,false,,,5,2,1,6,2,2,2,1

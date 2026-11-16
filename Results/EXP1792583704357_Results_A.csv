@@ -1,0 +1,5 @@
+﻿experiment_id,experiment_name,participant_role,age,gender,native_language,german_proficiency,hearing_difficulties,previous_test_experience,sct_number,scenario_id,recording_filename,packet_loss_percent,delay_ms,echo_enabled,echo_delay_ms,echo_gain,overall_quality,noise,continuity,coloration,loudness,own_voice_influence,own_voice_impairment,interaction
+EXP1792583704357,Speech Quality Experiment,A,20,Female,Bulgarian,C1,No,No,1,12,EXP1792583704357_SCT_01_A.mp3,0.0,300,false,,,5,1,98,3,79,9,3,1
+EXP1792583704357,Speech Quality Experiment,A,20,Female,Bulgarian,C1,No,No,2,7,EXP1792583704357_SCT_02_A.mp3,5.0,300,false,,,3,81,70,67,20,7,1,36
+EXP1792583704357,Speech Quality Experiment,A,20,Female,Bulgarian,C1,No,No,3,17,EXP1792583704357_SCT_03_A.mp3,0.0,0,false,,,4,11,9,3,7,4,0,0
+EXP1792583704357,Speech Quality Experiment,A,20,Female,Bulgarian,C1,No,No,4,5,EXP1792583704357_SCT_04_A.mp3,5.0,0,false,,,3,36,54,53,37,2,0,52

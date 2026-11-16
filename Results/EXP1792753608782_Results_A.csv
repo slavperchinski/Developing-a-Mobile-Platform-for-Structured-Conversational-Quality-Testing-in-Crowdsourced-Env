@@ -1,0 +1,9 @@
+﻿experiment_id,experiment_name,participant_role,age,gender,native_language,german_proficiency,hearing_difficulties,previous_test_experience,headphone_type,sct_number,scenario_id,recording_filename,packet_loss_percent,delay_ms,echo_enabled,echo_delay_ms,echo_gain,overall_quality,noise,continuity,coloration,loudness,own_voice_influence,own_voice_impairment,interaction
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,1,13,EXP1792753608782_SCT_01_A.mp3,0.0,0,true,200,0.3,3,1,0,30,79,30,1,10
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,2,1,EXP1792753608782_SCT_02_A.mp3,20.0,0,true,200,0.3,2,1,42,29,89,28,25,52
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,3,17,EXP1792753608782_SCT_03_A.mp3,0.0,0,false,,,4,0,3,3,2,4,5,2
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,4,3,EXP1792753608782_SCT_04_A.mp3,20.0,1000,true,200,0.3,3,4,57,40,28,32,48,41
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,5,8,EXP1792753608782_SCT_05_A.mp3,20.0,1000,false,,,4,4,68,2,5,0,1,40
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,6,6,EXP1792753608782_SCT_06_A.mp3,0.0,1000,false,,,4,5,10,3,5,1,1,19
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,7,9,EXP1792753608782_SCT_07_A.mp3,20.0,0,false,,,3,6,63,2,25,1,1,41
+EXP1792753608782,Speech Quality Experiment,A,24,Male,Other,C1,No,Yes,Wireless earbuds,8,4,EXP1792753608782_SCT_08_A.mp3,0.0,1000,true,200,0.3,4,15,1,23,2,0,0,18
